@@ -1,0 +1,52 @@
+header{
+    color:#f0f0f0;
+    background-color: #125784;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 2% 5%;
+}
+.masthead {
+    height: 100vh;
+    background-image: url("../resources/img1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.masthead div{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background: rgba(0,0,0,.7);
+    height:100%;
+}
+
+.masthead div h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size:96px;
+    color:#f0f0f0;
+    text-align:center;
+}
+
+p{
+    font-family: 'Roboto', sans-serif;
+}
+
+.row1{
+    margin-left: 0px;
+    margin-right: 0px;
+    padding: 2% 5%;
+    background-color: #f57f17;
+}
+
+.form{
+    color:#f0f0f0;
+    background-color: #5e35b1;
+}
+
+footer{
+    color:#f0f0f0;
+    background-color: #0e0e0e;
+}
